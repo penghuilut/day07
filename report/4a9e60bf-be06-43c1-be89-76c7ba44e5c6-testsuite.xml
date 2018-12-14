@@ -1,0 +1,48 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1544753780593" stop="1544753780660">
+  <name>test01</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1544753780593" status="passed" stop="1544753780655">
+      <name>Test.test01</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14256-MainThread"/>
+        <label name="host" value="DESKTOP-Q0THO8P"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1544753780626" status="passed" stop="1544753780655">
+          <name>test正在运行</name>
+          <title>test正在运行</title>
+          <attachments>
+            <attachment source="83498c51-f9d8-4882-ac9f-1243ba4ea5f4-attachment.txt" title="test1" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1544753780658" status="passed" stop="1544753780660">
+      <name>Test.test02</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="critical"/>
+        <label name="thread" value="14256-MainThread"/>
+        <label name="host" value="DESKTOP-Q0THO8P"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1544753780659" status="passed" stop="1544753780659">
+          <name>test2正在运行</name>
+          <title>test2正在运行</title>
+          <attachments>
+            <attachment source="53f698b2-6f4a-4a71-b95d-0fea00d6af9d-attachment.txt" title="test1" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
